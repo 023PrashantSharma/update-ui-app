@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-updateuiapp-dev-142324-authRole",
+      "UnauthRoleArn": "arn:aws:iam::323455746002:role/amplify-updateuiapp-dev-142324-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::323455746002:role/amplify-updateuiapp-dev-142324-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-updateuiapp-dev-142324-deployment",
+      "UnauthRoleName": "amplify-updateuiapp-dev-142324-unauthRole",
+      "StackName": "amplify-updateuiapp-dev-142324",
+      "StackId": "arn:aws:cloudformation:ap-south-1:323455746002:stack/amplify-updateuiapp-dev-142324/393cebe0-1ed3-11ed-a5ff-02007284ddce",
+      "AmplifyAppId": "d3p5d0arbwdnqb"
+    },
+    "categories": {
+      "auth": {
+        "updateuiapp62ee482e": {}
+      }
+    }
+  }
+}
